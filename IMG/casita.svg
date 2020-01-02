@@ -1,0 +1,23 @@
+<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#f9fcfc" id="canvas_background" height="22" width="22" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_18" d="m8.356081,7.236225" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#BBBBBB"/>
+  <path d="m7.301491,2.521589c-0.12407,0.124069 -0.66756,0.335974 -0.868486,0.434243c-0.176223,0.086188 -0.257583,0.138625 -0.372208,0.186104c-0.162104,0.067146 -0.245358,0.22017 -0.310174,0.434243c-0.035954,0.118746 -0.059014,0.452179 0.062035,0.744416c0.085595,0.206644 0.699751,0.83543 2.295283,1.054589c0.676034,0.092859 1.302729,0.062035 2.171214,0.062035c0.372209,0 0.696159,0.070959 0.992556,-0.186104c0.209583,-0.181771 0.186104,-0.372208 0.186104,-0.434243c0,-0.062035 0.030165,-0.051101 0.062035,-0.186104c0.085516,-0.362251 -0.063306,-0.6808 -0.372208,-0.93052c-0.107874,-0.087207 -0.186105,-0.124069 -0.248139,-0.186104l0,0l-0.062035,0" id="svg_23" stroke-width="0" stroke="#DDDDDD" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_24" points="15.614139244096123,9.65557777060064 15.614139244096123,9.65557777060064 " stroke-width="0" stroke="#DDDDDD" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_25" points="15.614139244096123,9.65557777060064 15.614139244096123,9.65557777060064 " stroke-width="0" stroke="#DDDDDD" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_26" points="16.544659560797143,12.385104032923618 16.544659560797143,12.385104032923618 " stroke-width="0" stroke="#DDDDDD" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_27" points="16.544659560797143,12.385104032923618 16.544659560797143,12.385104032923618 " stroke-width="0" stroke="#DDDDDD" fill="none"/>
+  <polyline stroke-linecap="round" id="svg_28" points="5.006207633704559,16.665497489748287 5.006207633704559,16.665497489748287 " stroke-width="0" stroke="#DDDDDD" fill="none"/>
+  <path id="svg_38" d="m7.301491,16.293289" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#BBBBBB"/>
+  <path id="svg_39" d="m3.95162,10.39999l5.29155,-6.86401l4.90074,6.82381" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#BBBBBB"/>
+  <path id="svg_40" d="m14.187341,10.399994" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#BBBBBB"/>
+  <path id="svg_41" d="m4.696034,10.21389c0,4.466498 0.124069,4.528532 0.124069,4.528532c0,0 2.91563,0.062035 2.872198,0.021834c0.043432,0.040201 0.043432,-2.565256 0,-2.605457c0.043432,0.040201 -0.018602,-2.006944 -0.018602,-2.006944c0,0 2.729526,0.062035 2.729526,0.062035c0,0 0.124069,4.838706 0.080637,4.798505c0.043432,0.040201 2.772959,-0.021834 2.729526,-0.062035c0.043432,0.040201 0.105467,-4.984609 0.062035,-5.02481" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#BBBBBB"/>
+  <path id="svg_42" d="m14.187341,9.965751" opacity="0.5" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#BBBBBB"/>
+  <rect id="svg_43" height="2.91563" width="4.156324" y="9.221335" x="6.743179" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#BBBBBB"/>
+ </g>
+</svg>
